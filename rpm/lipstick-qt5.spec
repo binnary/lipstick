@@ -38,7 +38,7 @@ BuildRequires:  pkgconfig(ngf-qt5)
 BuildRequires:  pkgconfig(systemd)
 BuildRequires:  pkgconfig(wayland-server)
 BuildRequires:  pkgconfig(usb-moded-qt5) >= 1.8
-BuildRequires:  pkgconfig(systemsettings) >= 0.5.73
+#BuildRequires:  pkgconfig(systemsettings) >= 0.5.73
 BuildRequires:  pkgconfig(nemodevicelock)
 BuildRequires:  pkgconfig(sailfishusermanager)
 BuildRequires:  pkgconfig(glib-2.0)
